@@ -9,7 +9,7 @@ I am a Data Scientist based in Utah, leveraging my skills in Python, SQL, machin
 I'm passionate about transforming raw data into actionable intelligence, solving real-world problems, and continually pushing the boundaries of what’s possible with data. Whether it's predictive modeling, optimization, or automation, I love taking on new challenges and providing innovative, data-backed solutions.
 
 ---
-![Alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFrcDExMG1sZmh4cjd4MW8wZ3Y3dnR5ZmRwb3ZxeGpqYmpnb2lueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6TjZSoVOvrPO/giphy.gif)
+
 ## 🛠️ Technical Skills  
 
 - **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
@@ -41,7 +41,7 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 
 ## 🐍 GitHub Contribution Snake  
 
-![GitHub Contribution Snake](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/GabrielaHowell/GabrielaHowell/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
