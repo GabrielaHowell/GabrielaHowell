@@ -41,7 +41,7 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 
 ## 🐍 GitHub Contribution Snake  
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/${{ github.repository_owner }}/dist/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
