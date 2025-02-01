@@ -16,13 +16,14 @@ jobs:
         with:
           github_user_name: GabrielaHowell
           outputs: dist/github-contribution-grid-snake.svg
-
-      - name: Commit and push
+          
+      - name: Commit and Push Snake SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p output
-          mv dist/github-contribution-grid-snake.svg output/
-          git add output/github-contribution-grid-snake.svg
+          git checkout -B output  # Create/update the 'output' branch
+          mkdir -p dist
+          mv dist/github-contribution-grid-snake.svg .
+          git add github-contribution-grid-snake.svg
           git commit -m "Generated GitHub Contribution Snake"
-          git push
+          git push -f origin output  # Force push to the output branch
