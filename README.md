@@ -18,6 +18,7 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 - **Big Data & Cloud:** Google BigQuery (Learning)  
 - **Tools:** Jupyter Notebook, Excel, PowerPoint  
 
+
 ---
 
 ## 📌 Featured Projects  
@@ -32,10 +33,18 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 
 ## 📊 GitHub Stats  
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
 
 ---
+
+## 🐍 GitHub Contribution Snake  
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/${{ github.repository_owner }}/dist/github-contribution-grid-snake.svg)
+
+---
+
 
 ## 📫 Connect with Me  
 
