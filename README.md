@@ -41,7 +41,7 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 
 ## 🐍 GitHub Contribution Snake  
 
-![GitHub Contribution Snake](https://github.com/GabrielaHowell/GabrielaHowell/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/GabrielaHowell/GabrielaHowell/output/github-contribution-grid-snake.svg)
 
 ---
 
