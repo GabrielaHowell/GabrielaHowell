@@ -1,8 +1,8 @@
 name: Generate GitHub Contribution Snake  
 on:
+  workflow_dispatch:  # Allows manual trigger
   schedule:
     - cron: "0 0 * * *"  # Runs daily
-
 jobs:
   build:
     runs-on: ubuntu-latest
