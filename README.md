@@ -1,6 +1,8 @@
 # 💡 Gabriela Howell | Data Scientist in Transition  
 
-![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTUxaG5udHQyajA4eGhsa3RhMGJudGp5MTJibDdzMzNvMW1lbXQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif) 
+<p align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFraWRmemVlY21vZWVsN3N2OXpsOXNhc2s3ejA0OWRqc245dGc1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IDQPqb10ijWCfC/giphy.gif" />
+</p>
 
 ## 🚀 About Me  
 
@@ -9,6 +11,9 @@ I am a Data Scientist based in Utah, leveraging my skills in Python, SQL, machin
 I'm passionate about transforming raw data into actionable intelligence, solving real-world problems, and continually pushing the boundaries of what’s possible with data. Whether it's predictive modeling, optimization, or automation, I love taking on new challenges and providing innovative, data-backed solutions.
 
 ---
+<p align="center">
+    <img src="https://www.wgu.edu/online-it-degrees/data-analytics-masters-program/_jcr_content/root/container/columncontrol/column-1/image_1704038250_cop.coreimg.85.800.png/1712173894152/msda-infographic.png" width="500"/>
+</p>
 
 ## 🛠️ Technical Skills  
 
