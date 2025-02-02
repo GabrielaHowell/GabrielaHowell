@@ -56,8 +56,8 @@ Used ARIMA models to forecast hospital revenue and patient visit trends over tim
 
 ## 📫 Connect with Me  
 
-📩 **Email:** [Gab.Howell@Outlook.com]
-💼 **LinkedIn:** [https://www.linkedin.com/in/gabriela-howell/]
+📩 [Email](mailto:Gab.Howell@Outlook.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/gabriela-howell/)
 
 ---
 
