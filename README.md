@@ -40,8 +40,6 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
 
 ---
 
