@@ -4,7 +4,7 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFraWRmemVlY21vZWVsN3N2OXpsOXNhc2s3ejA0OWRqc245dGc1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IDQPqb10ijWCfC/giphy.gif" />
 </p>
 
-## 🚀 About Me  
+## 🐈 About Me  
 
 I am a Data Scientist based in Utah, leveraging my skills in Python, SQL, machine learning, and data visualization to unlock powerful insights from complex datasets. With a Master's degree in Data Science, I specialize in building predictive models, creating AI-powered analytics, and crafting data-driven solutions that drive impactful decision-making.
 
@@ -28,9 +28,19 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 
 ## 📌 Featured Projects  
 
-🔹 **[Project 1 Name](#)** – [Short description of project]  
-🔹 **[Project 2 Name](#)** – [Short description of project]  
-🔹 **[Project 3 Name](#)** – [Short description of project]  
+
+🔹 **[🦠 COVID-19 Dashboard & Storytelling](https://github.com/GabrielaHowell/my-projects/tree/main/Data-Dashboard-And-Storytelling-D210)**  
+Created an interactive Tableau dashboard to analyze and visualize COVID-19 death rates and healthcare access disparities across U.S. states.  
+**Outcome:** Provides insights into mortality rates and healthcare availability for informed decision-making.
+
+🔹 **[🤖 Classification Analysis](https://github.com/GabrielaHowell/my-projects/tree/main/Classification-Analysis-D209-Task-1)**  
+Built a machine learning model to predict patient outcomes, such as disease presence or health risks.  
+**Outcome:** Accurately predicts health outcomes, aiding early disease detection.
+
+🔹 **[⏳ Time Series Modeling](https://github.com/GabrielaHowell/my-projects/tree/main/Time-Series-Modeling-D213-Task-1)**  
+Used ARIMA models to forecast hospital revenue and patient visit trends over time.  
+**Outcome:** Provides accurate forecasts to help healthcare administrators plan for future patient inflow and revenue.
+
 
 📂 **Explore my repositories** for more projects on **machine learning, time series analysis, and market basket analysis.**  
 
