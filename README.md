@@ -29,17 +29,36 @@ I'm passionate about transforming raw data into actionable intelligence, solving
 ## 📌 Featured Projects  
 
 
-🔹 **[🦠 COVID-19 Dashboard & Storytelling](https://github.com/GabrielaHowell/my-projects/tree/main/Data-Dashboard-And-Storytelling-D210)**  
-Created an interactive Tableau dashboard to analyze and visualize COVID-19 death rates and healthcare access disparities across U.S. states.  
-**Outcome:** Provides insights into mortality rates and healthcare availability for informed decision-making.
+# 🎧 Spotify Playlist Analytics App
 
-🔹 **[🤖 Classification Analysis](https://github.com/GabrielaHowell/my-projects/tree/main/Classification-Analysis-D209-Task-1)**  
-Built a machine learning model to predict patient outcomes, such as disease presence or health risks.  
-**Outcome:** Accurately predicts health outcomes, aiding early disease detection.
+**Live App:** https://gabspotify2025.streamlit.app  
 
-🔹 **[⏳ Time Series Modeling](https://github.com/GabrielaHowell/my-projects/tree/main/Time-Series-Modeling-D213-Task-1)**  
-Used ARIMA models to forecast hospital revenue and patient visit trends over time.  
-**Outcome:** Provides accurate forecasts to help healthcare administrators plan for future patient inflow and revenue.
+**Tech Stack:**  
+Python · Streamlit · Spotify Web API · Pandas · Seaborn · OAuth  
+
+---
+
+An **interactive data analytics web app** that analyzes Spotify playlists and compares them against **Spotify Global charts and curated playlists**.
+
+Users can paste a **Spotify playlist** and instantly explore:
+
+- 📈 Popularity trends  
+- 🎧 Genre distributions  
+- 🤝 Artist overlap insights  
+
+All insights are displayed through **dynamic visualizations and interactive analytics dashboards**.
+
+---
+
+## 💡 Project Highlights
+
+This project demonstrates:
+
+- 🔗 **API Integration** with the Spotify Web API  
+- 🔐 **OAuth Authentication** workflows  
+- 📊 **Data Analysis** with Pandas  
+- 📉 **Statistical Visualization** with Seaborn  
+- ⚡ **Interactive dashboards** built with Streamlit
 
 
 📂 **Explore my repositories** for more projects on **machine learning, time series analysis, and market basket analysis.**  
